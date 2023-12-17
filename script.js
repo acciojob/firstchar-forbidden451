@@ -1,6 +1,6 @@
 function firstChar(text) {
   // your code here
-	if(text.length == '' || text == ' ') 
+	if(text == '' || text == ' ') 
 		return '';
 	// else if(text == ' ')
 	// 	return '';
