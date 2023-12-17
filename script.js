@@ -1,7 +1,7 @@
 function firstChar(text) {
   // your code here
 	if(text.length == '' || text == ' ') 
-		return text[1];
+		return '';
 	// else if(text == ' ')
 	// 	return '';
 	else if(text.length > 0){
